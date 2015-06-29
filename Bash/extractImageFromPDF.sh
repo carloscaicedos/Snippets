@@ -1,0 +1,1 @@
+gs -sDEVICE=png16m -o page_%03d.png -sDEVICE=png16m -r300 <pdf_file>
