@@ -1,0 +1,1 @@
+ffmpeg.exe -i <archivo.mp3> <archivo.wav>

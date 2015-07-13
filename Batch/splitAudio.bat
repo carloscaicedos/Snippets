@@ -1,0 +1,1 @@
+ffmpeg.exe -i <archivo> -codec copy -map 0 -f segment -segment_time <time> <salida>%03d.<ext>
